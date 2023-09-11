@@ -1,9 +1,11 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # React2-1-ReactRouter-HappyCake
+
+
+
+conocimientos de React Router I nivel
+
+<img width="671" alt="image" src="https://github.com/CarolinaQH/React2-1-ReactRouter-HappyCake/assets/110051598/54041602-504c-4ae2-8429-b53334492e36">
+
+<img width="1316" alt="image" src="https://github.com/CarolinaQH/React2-1-ReactRouter-HappyCake/assets/110051598/e5f9a506-3d0b-4481-b189-c28e536ce758">
+
+
